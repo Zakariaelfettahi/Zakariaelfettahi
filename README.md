@@ -10,8 +10,6 @@ I am a computer engineering undergraduate student based in Montreal, QC, with a 
 - **Collaborative Projects**: Working with teams to develop innovative software solutions.
 - **Continuous Learning**: Exploring new technologies and methodologies to enhance my skill set.
 
-- 📫 How to reach me: [Email](zakariaelfettahi@gmail.com)
-
 
 ## GitHub Stats
 
