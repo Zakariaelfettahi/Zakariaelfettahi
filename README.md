@@ -1,17 +1,11 @@
 # Zakaria El Fettahi
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Zakariaelfettahi&color=blue)](https://github.com/Zakariaelfettahi)
+Not really a “coder”… unless you count vibe coding.  
+I know a bit of Python, C, C++, and I once survived a full-stack web dev project.  
 
-## About Me
-I am a Computer Engineering undergraduate student at Concordia University in Montreal.  
+Currently just trying to:  
+- learn to code.
+- build a machine learning model for my 498 class.
+- GET AN INTERNSHIP 🙏
 
----
-
-## Skills
-Full Stack Web dev + some Python and C/C++
-
- ---
-
-## Contact
-- **Email**: z_elfett@live.concordia.ca  
  
