@@ -1,39 +1,17 @@
-# Hello, I'm Zakaria El Fettahi! 👋
+# Zakaria El Fettahi
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zakariaelfettahi&color=blue)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Zakariaelfettahi&color=blue)](https://github.com/Zakariaelfettahi)
 
 ## About Me
+I am a Computer Engineering undergraduate student at Concordia University in Montreal.  
 
-I am a computer engineering undergraduate student based in Montreal, QC, with a deep passion for programming and technology. My interests span across various domains, including:
+---
 
-- **Game Development**: Creating interactive experiences using Python and Pygame.
-- **Collaborative Projects**: Working with teams to develop innovative software solutions.
-- **Continuous Learning**: Exploring new technologies and methodologies to enhance my skill set.
+## Skills
+Full Stack Web dev + some Python and C/C++
 
+ ---
 
-## GitHub Stats
-
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakariaelfettahi&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariaelfettahi&layout=compact&theme=radical)
-
-
-
-
-
-<!--
-**Zakariaelfettahi/Zakariaelfettahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Email**: z_elfett@live.concordia.ca  
+ 
